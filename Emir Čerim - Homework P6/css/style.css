@@ -1,0 +1,100 @@
+.image-navbar{
+    margin-left:150px;
+
+    height: 50px;
+    width:150px;
+}
+.list-navbar{
+    margin-left:50px;
+}
+.nav-item {
+    color:black;
+    margin-left:25px;
+    border-bottom-width: 3px;
+    border-bottom-color: yellow;
+}
+.form-control.mr-sm-2{
+    background-color: lightgray;
+    border-radius: 10px;
+    float:left;
+}
+
+.d-block.w-100{
+    width:100%;
+    height: 500px;
+  
+}
+.carousel-caption {
+    top: 0;
+    bottom: auto;
+    text-align: left;
+    right:0;
+}
+.caption-heading{
+    width:250px;
+    height:450px;
+    margin-top:25px;
+    text-align: left;
+}
+.caption-heading h4{
+    font-size:25px;
+}
+.caption-heading p{
+    margin-top: 50px;
+    
+}
+#small-width{
+    width:125px;
+}
+.btn.btn-warning{
+    background-color:orange;
+    border-radius: 12px;
+    color: white;
+    width:100%;
+    text-align: left;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+}
+.content-title{
+    margin-left:125px;
+    margin-top:25px;
+}
+.content-title p{
+    font-weight: bold;
+    color:lightslategray;
+}
+hr{
+    width:85%;
+}
+.content{
+    margin-left:175px;
+    width:75%;
+    height:400px;
+}
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+  }
+  .flex-container h3{
+      margin-top: 10px;
+      color:gray;
+      font-weight: bolder;
+  }
+  .flex-container p{
+      width:250px;
+      margin-left:100px;
+      font-weight: bold;
+      font-size:12px;
+      margin-top:25px;
+      color:gray;
+  }
+  .flex-container a{
+    color:yellowgreen;
+}
+.flex-container hr{
+    width:25%;
+    margin-left:125px;
+    border-width: 12px;
+}
